@@ -1,7 +1,7 @@
 package controllers
 
 import (
-	config "MyBlog"
+	"MyBlog/config"
 	"MyBlog/internal/models"
 	"github.com/gin-gonic/gin"
 	"golang.org/x/crypto/bcrypt"
